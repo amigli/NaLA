@@ -46,6 +46,7 @@ The results are summarized in the table below.
 
 In the following figure is presented a more direct visualization of the difference between models size and performance.
 
+![tradeoff_prestazioni_dimensioni](https://github.com/user-attachments/assets/030b7c2b-00ee-4310-8b2c-45cb846bfaa8)
 
 
 # Installation Guide
@@ -74,4 +75,16 @@ To install the requirements, please:
 2. Install the project requirements using `pip`:
 ```shell 
 pip install -r requirements.txt
+```
+
+# Citation
+
+If you use this project, please consider citing:  
+```
+@article{costantemiglinonazzaro2025:nala,
+  author    = {Luigina Costante, Annalaura Miglino, Angelo Nazzaro},
+  title     = {NaLA: Natural Analysis of Language Attitudes in BlueSky Conversations},
+  year      = {2025},
+  institution = {University of Salerno}
+}
 ```
