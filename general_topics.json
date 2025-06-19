@@ -1,0 +1,215 @@
+{
+    "Politics": [
+        "trump", "biden", "election", "government", "senate", "law", "policy", "minister",
+        "parliament", "republican", "democrat", "vote", "campaign", "diplomacy", "legislation"
+    ],
+    "Social Issues": [
+        "racism", "inequality", "gender", "lgbt", "discrimination", "diversity", "justice",
+        "inclusion", "bias", "equity", "social class", "prejudice"
+    ],
+    "Human Rights": [
+        "freedom", "civil rights", "asylum", "oppression", "liberty", "free speech", "activist",
+        "torture", "refugee", "surveillance"
+    ],
+    "Immigration": [
+        "migrant", "border", "visa", "asylum seeker", "immigration", "citizenship", "deportation",
+        "residency", "green card", "illegal immigration"
+    ],
+    "Law & Justice": [
+        "law","court", "trial", "judge", "jury", "verdict", "lawsuit", "arrest", "attorney", "sentence",
+        "evidence", "legal", "justice system", "penalty"
+    ],
+    "Activism": [
+        "protest", "march", "strike", "boycott", "demonstration", "petition", "climate protest",
+        "civil disobedience", "activist", "grassroots"
+    ],
+    "War & Conflict": [
+        "war", "invasion", "conflict", "soldier", "army", "military", "nato", "battle", "weapon",
+        "troops", "airstrike", "casualty", "geopolitics", "missile"
+    ],
+    "Religion": [
+        "religion", "faith", "god", "church", "mosque", "temple", "bible", "quran", "prayer",
+        "atheism", "spirituality", "christian", "muslim", "jewish"
+    ],
+    "Economy": [
+        "inflation", "recession", "gdp", "market", "economic", "employment", "interest rate",
+        "federal reserve", "currency", "trade", "crisis"
+    ],
+    "Personal Finance": [
+        "savings", "debt", "loan", "credit", "mortgage", "banking", "investment", "budget", "taxes",
+        "retirement", "income"
+    ],
+    "Crypto & Blockchain": [
+        "bitcoin", "ethereum", "crypto", "nft", "blockchain", "wallet", "token", "web3", "defi",
+        "mining", "coinbase"
+    ],
+    "Stock Market": [
+        "stocks", "nasdaq", "shares", "dow jones", "index", "portfolio", "trading", "dividends",
+        "bull market", "bear market"
+    ],
+    "Business & Startups": [
+        "startup", "entrepreneur", "pitch", "founder", "vc", "funding", "accelerator", "scale",
+        "business model", "unicorn", "exit", "seed round"
+    ],
+    "Tech News": [
+        "launch", "update", "tech", "startup", "product", "platform", "feature", "app", "software",
+        "hardware"
+    ],
+    "AI & Machine Learning": [
+        "ai", "ml", "chatgpt", "openai", "neural network", "deep learning", "transformer", "nlp",
+        "language model", "prompt", "finetune"
+    ],
+    "Cybersecurity": [
+        "breach", "hack", "phishing", "ransomware", "encryption", "password", "cyberattack",
+        "malware", "firewall", "vulnerability"
+    ],
+    "Gadgets & Devices": [
+        "smartphone", "tablet", "watch", "laptop", "device", "gadget", "tech review", "hardware",
+        "iphone", "android"
+    ],
+    "Programming": [
+        "python", "javascript", "java", "developer", "api", "code", "debug", "algorithm",
+        "opensource", "repo", "git", "bug"
+    ],
+    "News & Current Events": [
+        "breaking", "headline", "coverage", "incident", "world news", "local news", "media",
+        "update", "trending", "developing"
+    ],
+    "Journalism": [
+        "journalist", "press", "media", "report", "investigation", "source", "interview",
+        "fact-checking", "publisher", "bias"
+    ],
+    "Social Media": [
+        "twitter", "facebook", "bluesky", "instagram", "post", "viral", "tiktok", "reel", "comment",
+        "feed", "hashtag"
+    ],
+    "Memes & Internet Culture": [
+        "meme", "shitpost", "emoji", "lol", "dank", "wholesome", "copypasta", "reaction", "trend",
+        "inside joke"
+    ],
+    "Climate Change": [
+        "climate", "emissions", "carbon", "global warming", "co2", "fossil fuels", "greenhouse",
+        "renewable", "sustainability", "climate crisis"
+    ],
+    "Organic Food": [
+        "organic", "natural", "local", "farm", "wholefood", "non-gmo", "fresh produce", "sustainable food",
+        "pesticide-free", "homegrown"
+    ],
+    "Veganism & Diets": [
+        "vegan", "vegetarian", "plant-based", "keto", "paleo", "low-carb", "diet", "nutrition",
+        "healthy eating", "gluten-free"
+    ],
+    "Sustainability": [
+        "recycle", "eco", "green", "zero waste", "sustainable", "plastic-free", "climate",
+        "carbon footprint", "renewable", "environment"
+    ],
+    "Agriculture": [
+        "farming", "soil", "crops", "harvest", "livestock", "farmer", "tractor", "organic farming",
+        "pesticide", "irrigation"
+    ],
+    "Mental Health": [
+        "anxiety", "depression", "therapy", "mental health", "stress", "burnout", "self-care",
+        "counseling", "mindfulness", "support group"
+    ],
+    "Physical Health": [
+        "illness", "exercise", "fitness", "wellness", "symptom", "diagnosis", "treatment", "hospital",
+        "doctor", "healthcare"
+    ],
+    "Relationships": [
+        "dating", "friendship", "partner", "breakup", "marriage", "love", "crush", "divorce",
+        "connection", "family"
+    ],
+    "Self-Improvement": [
+        "habit", "motivation", "productivity", "goals", "growth", "discipline", "time management",
+        "focus", "routine", "mindset"
+    ],
+    "Fitness & Wellness": [
+        "workout", "gym", "training", "yoga", "meditation", "run", "stretching", "nutrition",
+        "hydration", "wellbeing"
+    ],
+    "Music": [
+        "song", "album", "artist", "band", "genre", "lyrics", "concert", "music video", "track",
+        "release", "playlist"
+    ],
+    "Movies & TV": [
+        "movie", "film", "series", "tv", "actor", "director", "scene", "episode", "streaming",
+        "netflix", "cinema"
+    ],
+    "Books & Literature": [
+        "book", "novel", "author", "poetry", "fiction", "non-fiction", "literature", "biography",
+        "short story", "publishing"
+    ],
+    "Gaming": [
+        "game", "gamer", "console", "xbox", "playstation", "nintendo", "twitch", "streamer", "fps",
+        "rpg", "multiplayer", "level", "quest"
+    ],
+    "Celebrities": [
+        "celebrity", "gossip", "scandal", "fame", "actor", "red carpet", "paparazzi", "rumor",
+        "influencer", "tabloid"
+    ],
+    "Traveling": [
+        "travel", "vacation", "trip", "destination", "passport", "airport", "flight", "hotel",
+        "backpacking", "guide", "tourism"
+    ],
+    "Nature & Outdoors": [
+        "hiking", "camping", "forest", "mountain", "beach", "river", "trail", "sunset", "landscape",
+        "wildlife"
+    ],
+    "Urban Life": [
+        "city", "metro", "commute", "traffic", "apartment", "neighborhood", "street", "urban",
+        "downtown", "public transport"
+    ],
+    "Photography": [
+        "camera", "photo", "lens", "exposure", "edit", "portrait", "landscape", "snapshot", "filter",
+        "dslr", "composition"
+    ],
+    "Fashion & Style": [
+        "fashion", "style", "outfit", "clothing", "trend", "model", "accessories", "runway",
+        "aesthetic", "wardrobe"
+    ],
+    "Home & Living": [
+        "home", "kitchen", "decor", "interior", "furniture", "cleaning", "renovation", "appliances",
+        "storage", "design"
+    ],
+    "Productivity": [
+        "focus", "workflow", "task", "project", "deadline", "calendar", "tools", "time block",
+        "efficiency", "planning"
+    ],
+    "Personal Opinions": [
+        "opinion", "thoughts", "rant", "viewpoint", "take", "experience", "belief", "perspective",
+        "expression", "debate"
+    ],
+    "Pets & Animals": [
+        "dog", "cat", "puppy", "kitten", "pet", "adopt", "vet", "animal", "rescue", "wildlife",
+        "fish", "hamster", "pet food"
+    ],
+    "General Activities": [
+        "shopping", "laundry", "cleaning", "errands", "cooking", "grocery", "chores", "organizing",
+        "fixing", "daily routine", "paying bills", "meal prep"
+    ],
+    "Cooking & Food": [
+        "recipe", "cook", "kitchen", "meal", "baking", "ingredients", "cuisine", "dish", "taste",
+        "flavor", "snack", "dinner", "lunch", "breakfast"
+    ],
+    "Family & Parenting": [
+        "parenting", "baby", "toddler", "school run", "child", "family", "mom", "dad", "siblings",
+        "motherhood", "fatherhood", "diaper", "daycare"
+    ],
+    "School & Education": [
+        "school", "student", "university", "homework", "teacher", "exam", "lesson", "textbook",
+        "class", "education", "college", "course", "degree"
+    ],
+    "Weather": [
+        "rain", "sunny", "forecast", "storm", "wind", "temperature", "snow", "climate", "heatwave",
+        "humidity", "cold", "weather"
+    ],
+    "Sports & Fitness": [
+        "soccer", "football", "basketball", "tennis", "workout", "training", "match", "score",
+        "gym", "team", "championship", "player", "olympics"
+    ],
+    "Trivia & Fun Facts": [
+        "fun fact", "trivia", "did you know", "random", "interesting", "facts", "knowledge",
+        "curiosity", "quiz", "unknown"
+    ]
+}
+
