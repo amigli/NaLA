@@ -1,5 +1,6 @@
+
 <div align="center">
-    <h1>NaLA</h1>
+    <img src="https://github.com/user-attachments/assets/4c8bce58-c571-48ce-b741-69fe8f439578" alt="NaLA logo" width="375" />
     <h3>Natural Analysis of Language Attitudes in BlueSky Conversations</h3>
 </div>
 
