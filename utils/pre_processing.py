@@ -45,7 +45,6 @@ def get_sentiment_distribution(df: pd.DataFrame, sentiment_counts: Dict[str, int
 
 def normalize_text(text, lemmatizer, lemmatizer_func,
                    negation_words, punctuation_words, stop_words):
-    text = text.lower()
     tokens = word_tokenize(text)
 
     lemmatize = getattr(lemmatizer, lemmatizer_func)
